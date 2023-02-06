@@ -61,5 +61,5 @@ para visualizar o crud faça login na pagina do administrador localizada no foot
 - Editar lendas
     
     <h1>Colaboradores</h1>
-    - ANA CAROLINA <a> href="https://github.com/Ana-Carolina-Pandora" acesse meu github <a/>
+    - ANA CAROLINA <a href="https://github.com/Ana-Carolina-Pandora"> acesse meu github <a/>
     - GUSTAVO RIBEIRO
